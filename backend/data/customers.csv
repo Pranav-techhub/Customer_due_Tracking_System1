@@ -1,0 +1,2 @@
+id,name,phone,email,address,due,last_update,status,added_at,username,password,plain_password
+1,sumit,8999860116,sumeetkamble0116@gmail.com,,0.0,2025-08-19 12:43:36,active,2025-08-19 12:43:10,sumit,scrypt:32768:8:1$7MAaVsgQhbXR5PPB$9cabb91e5400675344a0550e2192d60b7777baafb78c526784e05fed787eee9e6552518cfb71daab9f7ef6dc487c632fde565dfc493321b716c8aee7d5667645,sumit3748
